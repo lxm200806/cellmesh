@@ -9,3 +9,7 @@ require (
 	github.com/davyxu/golog v0.1.0
 	github.com/davyxu/protoplus v0.1.0
 )
+
+replace github.com/davyxu/cellnet => ../cellnet
+
+replace github.com/davyxu/golog => ../golog
